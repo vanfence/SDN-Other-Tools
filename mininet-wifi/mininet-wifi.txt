@@ -1,0 +1,3 @@
+关于idle_time 和 idle_age https://blog.csdn.net/caiqiiqi/article/details/79728068
+
+实验代码：https://github.com/ramonfontes/reproducible-research/blob/master/mininet-wifi/ACROSS-Sweden-2017/handover.py
